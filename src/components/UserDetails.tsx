@@ -7,7 +7,7 @@ export default function UserDetails() {
   const user = getUser(id);
   return (
     <div className="UserDetails">
-      <h1>User Details for the Userid {id}</h1>
+      <h1>User Details for the User Id {id}</h1>
 
       {user && (
         <div key={user.id} className="user-card" style={{ cursor: "pointer" }}>

@@ -7,7 +7,7 @@ export default function UserList() {
   const navigate = useNavigate();
 
   const handleUserClick = (id: Number) => {
-    navigate(`users/${id}`);
+    navigate(`/users/${id}`);
   };
 
   return (

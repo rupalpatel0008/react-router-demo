@@ -10,7 +10,9 @@ export default function Home() {
   return (
     <div className="Home">
       <h1>Welcome to the User Management Dashboard</h1>
-      <button onClick={handleLogin}>Login</button>
+      <button className="login-button" onClick={handleLogin}>
+        Login
+      </button>
     </div>
   );
 }
