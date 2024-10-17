@@ -10,4 +10,3 @@ You will also implement programmatic navigation based on certain actions.
 
 4. Programmatic Navigation:- Add a Login button to the Home page.- When the user clicks the Login button, simulate a successful login by programmatically navigating the user to the Dashboard page (/dashboard).
 
-Please post a screenshot of your application along with code when submitting
