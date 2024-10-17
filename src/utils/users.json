@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Alice",
+    "mobile_no": "9876543210",
+    "city": "Mumbai"
+  },
+  {
+    "id": 2,
+    "name": "Bob",
+    "mobile_no": "8765432109",
+    "city": "Delhi"
+  },
+  {
+    "id": 3,
+    "name": "Charlie",
+    "mobile_no": "7654321098",
+    "city": "Bangalore"
+  },
+  {
+    "id": 4,
+    "name": "David",
+    "mobile_no": "6543210987",
+    "city": "Chennai"
+  },
+  {
+    "id": 5,
+    "name": "Eve",
+    "mobile_no": "5432109876",
+    "city": "Kolkata"
+  }
+]
